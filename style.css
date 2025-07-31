@@ -78,7 +78,7 @@
 section span::after {
   content: '';
   position: absolute;
-  background-image: url(assets/User\ Avatar\ 6.svg);
+  background-image: url(assets/User\ Avatar\ 4.svg);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 0 0;
